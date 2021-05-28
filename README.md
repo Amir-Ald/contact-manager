@@ -1,2 +1,1 @@
-# C-_Programs
-Some of my C++ programs
+manage your contact list using this simple C app
